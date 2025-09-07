@@ -34,11 +34,4 @@ These courses strengthened my knowledge in Business Analysis, Agile, and Data An
 - **GitHub**: [DeepasriSarveshwar](https://github.com/DeepasriSarveshwar)  
 - **LinkedIn**: https://www.linkedin.com/in/deepasri-b-b41853201
 
-- 
-
-
-- 
-
-- 
-
--  
+  

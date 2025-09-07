@@ -1,4 +1,4 @@
-# Business-Analyst-Portfolio-
+# Business-Analyst-Portfolio
 Aspiring Business Analyst with hands-on experience in requirement gathering, process mapping, and Agile documentation.   This portfolio highlights case studies, coursework, and hands-on projects demonstrating Business Analysis skills and tools.  
 ## Projects  
 
